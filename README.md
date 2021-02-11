@@ -7,7 +7,7 @@ Olá! Me chamo **Tatiani Meneghini** :v:
 * :mortar_board: Curso Análise e Desenvolvimento de Sistemas na [Impacta](www.impacta.edu.br/).
 * :woman_technologist: Trabalho como *Software Developer* em [Yamí](https://yami.com.br) e Instrutora na [Alura Latam](https://www.aluracursos.com).
 
-#####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" :earth_africa: :earth_americas: :earth_asia:
+####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" :earth_africa: :earth_americas: :earth_asia:
 
 * :computer: Conhecimentos: JavaScript, Node.js, PHP, Python, HTML/CSS, MongoDB,SQL e APIRest.
 * 💬 Paixão: conhecimento em suas múltiplas plataformas e tecnologias.
