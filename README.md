@@ -11,7 +11,7 @@ Olá, me chamo **Tatiani Meneghini** :v:
 
 * :computer: Conhecimentos: JavaScript, Node.js, PHP, Python, HTML/CSS, MongoDB,SQL e APIRest.
 * 💬 Paixão: conhecimento em suas múltiplas plataformas e tecnologias.
-* :yellow_heart: Hobbies: cinema, literatura, música, comida e aprendizados.
+* :yellow_heart: Hobbies: cinema, literatura, música, comida e aprendizagens.
 * :rainbow: Movida: Cultura e diversidade.
 
 ##### Me siga nas redes :point_down:
