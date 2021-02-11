@@ -1,6 +1,6 @@
 # Ei! :sparkles:
 
-Olá, me chamo **Tatiani Meneghini** :v: 
+Olá! Me chamo **Tatiani Meneghini** :v: 
 
 * :books: Sou formada em Letras (*Português e Espanhol*) pela @USP.
 * :facepunch: Fiz parte do Bootcamp de *Back-end* da @reprograma. 
