@@ -5,7 +5,7 @@ Olá! Me chamo **Tatiani Meneghini** :v:
 * :books: Sou formada em Letras (*Português e Espanhol*) pela [USP](https://www5.usp.br).
 * :facepunch: Fiz parte do Bootcamp de *Back-end* da [reprograma](https://reprograma.com.br). 
 * :mortar_board: Curso Análise e Desenvolvimento de Sistemas na [Impacta](www.impacta.edu.br/).
-* :woman_technologist: Trabalho como *Software Developer* em [Yamí](https://yami.com.br) e Instrutora na [Alura Latam](https://www.aluracursos.com).
+* :woman_technologist: Trabalho como *Software Developer* em [GoBots](gobots.ai) e Instrutora na [Alura Latam](https://www.aluracursos.com).
 
 ####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" :earth_africa: :earth_americas: :earth_asia:
 
