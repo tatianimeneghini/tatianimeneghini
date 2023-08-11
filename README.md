@@ -20,9 +20,8 @@ Me chamo **Tatiani Meneghini** :v:
   
 Mi nombre es **Tatiani Meneghini** :v:  
   
-* :books: Soy licenciada en Letras (*Portugués y Español*) por la [Universidad de São Paulo](https://www5.usp.br).
+* :books: Soy licenciada en Letras (*Portugués y Español*) por la [Universidad de São Paulo](https://www5.usp.br) y en Análisis y Deserrallo de Sistemas en la [Facultad Impacta](www.impacta.edu.br/).
 * :facepunch: Hice parte del Bootcamp de *Back-end* de la [reprograma](https://reprograma.com.br). 
-* :mortar_board: Estudio Análisis y Deserrallo de Sistemas en la [Facultad Impacta](www.impacta.edu.br/).
 * :woman_technologist: Soy *Software Developer* en Votorantim e Instructora externa en [Alura Latam](https://www.aluracursos.com).  
   
 ####  :earth_africa: :earth_americas: :earth_asia: "Y siguió en su búsqueda del mundo" :earth_africa: :earth_americas: :earth_asia:  
