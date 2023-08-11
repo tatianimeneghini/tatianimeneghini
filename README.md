@@ -3,10 +3,9 @@
 
 Me chamo **Tatiani Meneghini** :v:  
   
-* :books: Sou formada em Letras (*Português e Espanhol*) pela [USP](https://www5.usp.br).
+* :books: Sou formada em Letras (*Português e Espanhol*) pela [USP](https://www5.usp.br) e Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](www.impacta.edu.br/).
 * :facepunch: Fiz parte do Bootcamp de *Back-end* da [reprograma](https://reprograma.com.br). 
-* :mortar_board: Curso Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](www.impacta.edu.br/).
-* :woman_technologist: Sou *Software Developer* na Votorantim e Instrutora externa na [Alura Latam](https://www.aluracursos.com).  
+* :woman_technologist: Sou *Software Developer* na Votorantim e Instrutora na [Alura Latam](https://www.aluracursos.com).  
    
 ####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" :earth_africa: :earth_americas: :earth_asia:  
   
