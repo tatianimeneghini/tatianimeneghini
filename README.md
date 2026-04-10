@@ -1,16 +1,19 @@
 🇵🇹-🇧🇷 | 🇪🇸  
-# Olá! ¡Hola! :sparkles:
+# Olá! ¡Hola! Hello! :sparkles:
 
-Sou/Soy **Tatiani Meneghini**  :v:   
+Sou/Soy/I'm **Tatiani Meneghini**  :v:   
   
 * :books: Sou formada em Letras (*Bacharelado em Português e Espanhol*) pela [USP](https://www5.usp.br) e em *Análise e Desenvolvimento de Sistemas* na [Faculdade Impacta](www.impacta.edu.br/).  
-          Soy licenciada en Letras (*Licenciatura en Portugués y Español*) por la [Universidad de São Paulo](https://www5.usp.br) y en Análisis y Deserrallo de Sistemas en la [Facultad Impacta](www.impacta.edu.br/).  
+          Soy licenciada en Letras (*Licenciatura en Portugués y Español*) por la [Universidad de São Paulo](https://www5.usp.br) y en Análisis y Deserrallo de Sistemas en la [Facultad Impacta](www.impacta.edu.br/).
+          I hold a Bachelor's degree in Portuguese and Spanish Language and Literature from the University of São Paulo (USP), as well as a degree in Systems Analysis and Development from Impacta Technology College.
 * :facepunch: Fiz parte do Bootcamp de *Back-end* da [reprograma](https://reprograma.com.br).  
-              Hice parte del Bootcamp de *Back-end* de la [reprograma](https://reprograma.com.br).  
+              Hice parte del Bootcamp de *Back-end* de la [reprograma](https://reprograma.com.br).
+              I completed the Back-end Developer Bootcamp at [reprograma](https://reprograma.com.br).
 * :woman_technologist: Sou *Software Developer* na BRQ e Instrutora na [Alura Latam](https://www.aluracursos.com).  
-                       Soy *Software Developer* en BRQ e Instructora externa en [Alura Latam](https://www.aluracursos.com).  
+                       Soy *Software Developer* en BRQ e Instructora externa en [Alura Latam](https://www.aluracursos.com).
+                       I'm a Software Engineer, with experience working at BRQ and as an Instructor at [Alura Latam](https://www.aluracursos.com). 
    
-####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" |  "Y siguió en su búsqueda del mundo" :earth_africa: :earth_americas: :earth_asia:  
+####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" |  "Y siguió en su búsqueda del mundo" | "And she continued in her search of the world." :earth_africa: :earth_americas: :earth_asia:  
 
 ---
 
