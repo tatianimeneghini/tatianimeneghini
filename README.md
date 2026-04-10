@@ -1,5 +1,5 @@
-🇵🇹-🇧🇷 | 🇪🇸  
-# Olá! ¡Hola! Hello! :sparkles:
+🇵🇹-🇧🇷 | 🇪🇸 | EN   
+# Olá! _¡Hola! Hello!_ :sparkles:
 
 Sou/Soy/I'm **Tatiani Meneghini**  :v:   
   
