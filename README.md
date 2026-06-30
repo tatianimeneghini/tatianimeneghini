@@ -9,9 +9,9 @@ Sou/Soy/I'm **Tatiani Meneghini**  :v:
 * :facepunch: Fiz parte do Bootcamp de *Back-end* da [reprograma](https://reprograma.com.br).   
              _ Hice parte del Bootcamp de *Back-end* de la [reprograma](https://reprograma.com.br)._  
               _I completed the Back-end Developer Bootcamp at [reprograma](https://reprograma.com.br)._  
-* :woman_technologist: Sou *Senior Software Engineer* na NTT Data.  
-                       _Soy *Senior Software Engineer* en NTT Data._  
-                       _I'm a Senior Software Engineer, with experience working at NTT Data._ 
+* :woman_technologist: Sou *Backend Developer Especialista I* no Grupo Boticário.  
+                       _Soy *Backend Developer Especialista I* en Grupo Boticário._  
+                       _I'm a Backend Developer Specialist I, with experience working at Boticário Group._ 
    
 ####  :earth_africa: :earth_americas: :earth_asia: "E continuou na sua busca do mundo" |  "Y siguió en su búsqueda del mundo" | "And she continued in her search of the world." :earth_africa: :earth_americas: :earth_asia:  
 
